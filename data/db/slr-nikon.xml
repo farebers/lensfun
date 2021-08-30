@@ -2261,6 +2261,36 @@
     </lens>
 
     <lens>
+    	<!-- https://richardhaw.com/2017/11/04/repair-nikkor-n-24mm-f2-8-auto/ -->
+        <maker>Nikon</maker>
+        <model>Nikon Nikkor-N 24mm f/2.8 Auto</model>
+        <model lang="en">Nikon Nikkor-N 24mm f/2.8 Auto</model>
+        <mount>Nikon F</mount>
+        <cropfactor>1</cropfactor>
+        <calibration>
+            <!-- Taken with Nikon D600 -->
+            <distortion model="ptlens" focal="24" a="0.03667" b="-0.09204" c="0.0507"/>
+            <!-- Taken with Nikon D600 -->
+            <tca model="poly3" focal="24" br="0.0000000" vr="1.0003086" bb="0.0000000" vb="0.9999895"/>
+        </calibration>
+    </lens>
+
+    <lens>
+    	<!-- https://richardhaw.com/2017/11/04/repair-nikkor-n-24mm-f2-8-auto/ -->
+        <maker>Nikon</maker>
+        <model>Nikon Nikkor-N 24mm f/2.8 Auto</model>
+        <model lang="en">Nikon Nikkor-N 24mm f/2.8 Auto</model>
+        <mount>Nikon F</mount>
+        <cropfactor>1.534</cropfactor>
+        <calibration>
+            <!-- Taken with Nikon D7100 -->
+            <distortion model="ptlens" focal="24" a="0.01012" b="-0.03668" c="0.02763"/>
+            <!-- Taken with Nikon D7100 -->
+            <tca model="poly3" focal="24" br="0.0000000" vr="1.0006830" bb="0.0000000 vb="0.9998465"/>
+        </calibration>
+    </lens>
+
+    <lens>
         <maker>Nikon</maker>
         <model>Nikon AF Nikkor 24mm f/2.8D 54</model>
         <model lang="en">Nikkor AF 24mm f/2.8D</model>
