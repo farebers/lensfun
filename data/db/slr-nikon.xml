@@ -3089,7 +3089,7 @@
     </lens>
 
     <lens>
-    	<!-- https://richardhaw.com/2017/11/04/repair-nikkor-n-24mm-f2-8-auto/ -->
+        <!-- https://richardhaw.com/2017/11/04/repair-nikkor-n-24mm-f2-8-auto/ -->
         <maker>Nikon</maker>
         <model>Nikon Nikkor-N 24mm f/2.8 Auto</model>
         <model lang="en">Nikon Nikkor-N 24mm f/2.8 Auto</model>
@@ -3104,7 +3104,7 @@
     </lens>
 
     <lens>
-    	<!-- https://richardhaw.com/2017/11/04/repair-nikkor-n-24mm-f2-8-auto/ -->
+        <!-- https://richardhaw.com/2017/11/04/repair-nikkor-n-24mm-f2-8-auto/ -->
         <maker>Nikon</maker>
         <model>Nikon Nikkor-N 24mm f/2.8 Auto</model>
         <model lang="en">Nikon Nikkor-N 24mm f/2.8 Auto</model>
@@ -3191,12 +3191,12 @@
             <vignetting model="pa" focal="28" aperture="22" distance="1000" k1="-0.9445" k2="0.6984" k3="-0.2952"/>
         </calibration>
     </lens>
-    
+
     <lens>
         <maker>Nikon</maker>
         <model>Nikkor 28mm f/2.8 AI</model>
         <mount>Nikon F AI</mount>
-        <cropfactor>1.5</cropfactor>
+        <cropfactor>1</cropfactor>
         <calibration>
             <!-- Taken with Nikon D600 -->
             <distortion model="ptlens" focal="28.0" a="-0.00245" b="0.00865" c="-0.01435" />

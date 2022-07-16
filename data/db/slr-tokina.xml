@@ -301,6 +301,30 @@
     </lens>
 
     <lens>
+    	<!-- taken with Nikon D7100 -->
+        <maker>Tokina</maker>
+        <model>Tokina 28mm f/2.8 AI-S RMC II</model>
+        <mount>Nikon F</mount>
+        <cropfactor>1.5</cropfactor>
+        <calibration>
+            <distortion model="ptlens" focal="28.0" a="0.00224266" b="-0.00718382" c="-0.0105026"/>
+            <tca model="poly3" focal="28.0" br="-0.0000960" vr="1.0008894" bb="0.0001418" vb="0.9996695"/>
+        </calibration>
+    </lens>
+
+    <lens>
+    	<!-- taken with Nikon D600 -->
+        <maker>Tokina</maker>
+        <model>Tokina 28mm f/2.8 AI-S RMC II</model>
+        <mount>Nikon F</mount>
+        <cropfactor>1</cropfactor>
+        <calibration>
+            <distortion model="ptlens" focal="28.0" a="0.0117132" b="-0.0333263" c="0.00346632"/>
+            <tca model="poly3" focal="28.0" br="-0.0002305" vr="1.0003172" bb="0.0001843" vb="0.9997457"/>
+        </calibration>
+    </lens>
+
+    <lens>
         <maker>Tokina</maker>
         <model>Tokina 28-70mm f/2.8 AT-X 287 Pro SV</model>
         <model lang="en">Tokina 28-70mm f/2.8 AT-X Pro SV</model>
@@ -395,7 +419,7 @@
             <distortion model="ptlens" focal="17" a="0" b="-0.004083" c="-0.015672"/>
         </calibration>
     </lens>
-    
+
     <lens>
         <maker>Tokina</maker>
         <model>Tokina 17mm f/3.5 AT-X 17 AF Pro</model>
@@ -708,6 +732,8 @@
             <!-- Taken with Nikon D600 -->
             <distortion model="ptlens" focal="17.0" a="0.01947" b="-0.03345" c="-0.02996" />
             <tca model="poly3" focal="17.0" vr="1.0000948" vb="1.0002216" />
+            <vignetting model="pa" focal="17.0" aperture="5.6" distance="0.100" k1="-0.7727548" k2="0.1617771" k3="-0.0756839"/>
+            <vignetting model="pa" focal="17.0" aperture="5.6" distance="1000" k1="-0.7727548" k2="0.1617771" k3="-0.0756839"/>
         </calibration>
     </lens>
 
